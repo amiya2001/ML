@@ -1,0 +1,23 @@
+# Core Python Libraries
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Jupyter Notebook
+notebook
+
+# Model Saving
+joblib
+
+# Optional (better data handling)
+scipy
+
+# Deployment (choose one or both)
+flask
+streamlit
